@@ -61,6 +61,15 @@ a:visited{color:white;}
 
 }
 
+.last_object_detail{
+  float:left;
+  width: 400px;
+  padding-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 100px;
+}
+
 p{color: white;}
 
 
