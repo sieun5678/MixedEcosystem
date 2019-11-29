@@ -46,7 +46,14 @@ a:visited{color:white;}
 
 #main_img{
   width: 800px;
-  height: 600px;
-  float: left;
-  padding-top: 50px;
+  height: 550px;
+  /* float: left; */
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+/* -----------------footer------------------------ */
+footer{
+  height: 90px;
+  width: 1400px;
 }

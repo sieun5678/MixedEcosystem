@@ -62,3 +62,10 @@ a:visited{color:white;}
 }
 
 p{color: white;}
+
+
+/* -----------------footer------------------------ */
+footer{
+  height: 90px;
+  width: 1400px;
+}
